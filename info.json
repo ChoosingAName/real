@@ -16,7 +16,7 @@
   "Accessory Carina_Pauldrons 15 0 0 0 18 0 2",
   "Accessory Elius_Cape 15 0 0 0 0 18 2",
   "Accessory Elius_Shroud 15 0 0 0 0 18 2",
-  "Accessory Arcsphere 21 0 0 0 0 0 2",
+  "Accessory Arcsphere 21 0 0 18 0 0 2",
   "Chestplate Sunken_Chestplate 0 224 24 0 0 0 2",
   "Chestplate Argos_Chestplate 0 189 0 24 0 0 2",
   "Chestplate Cernyx_Chestplate 0 189 0 0 24 0 2",
@@ -37,8 +37,8 @@
   "Enchant Nimble 0 0 0 0 0 18",
   "Jewel Power 3 0 0 0 0 0",
   "Jewel Defense 0 27 0 0 0 0",
-  "Jewel Size 0 0 9 0 0 0",
+  "Jewel Size 0 27 9 0 0 0",
   "Jewel Intensity 0 0 0 9 0 0",
-  "Jewel Speed 0 0 0 0 9 0",
+  "Jewel Speed 3 0 0 0 9 0",
   "Jewel Agility 0 0 0 0 0 9"
 ]
